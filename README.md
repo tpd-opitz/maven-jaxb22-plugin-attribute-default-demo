@@ -8,6 +8,6 @@ Since I need to introduce Java8 property bindings I changed to org.jvnet.jaxb2.m
 
 I ran into the problem that this plugin does not respect the default value for an attribute as given  in  &lt;xs:attribute default=""&gt; .
 
-The sample project her demonstrates the wrong behavior. The expectation is that the JUnitTest provided should pass but it doesn't.
+The sample project here demonstrates the wrong behavior. The expectation is that the JUnitTest provided should pass but it doesn't.
 
 TPD
